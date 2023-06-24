@@ -1,0 +1,23 @@
+input{
+    width: 80%;
+    padding: .5rem ;
+    height: 3rem;
+    border-radius: 5px 0 0 5px;
+    border: none;
+    outline: none;
+    border: 1px solid rgba(128, 128, 128, 0.452);
+    font-size: 1.2em;
+}
+button{
+    width: 20%;
+    height: 3rem;
+    padding: .6rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #28B463;
+    color: white;
+}
+form{
+    display: flex;
+}

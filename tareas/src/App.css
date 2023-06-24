@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    background-color: #34495E;
+}
+.App{
+    background-color: #E5E7E9;
+    padding: 1rem;
+    width: 30rem;
+    border-radius: 5px;
+}

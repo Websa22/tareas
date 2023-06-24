@@ -1,0 +1,21 @@
+.tarea{
+    background-color: #F8F9F9;
+    padding: .7rem;
+    margin: .5rem 0;
+    position: relative;
+}
+span{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #E74C3C;
+    color: white;
+    display: grid;
+    place-content: center;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: .8em;
+}
